@@ -1,6 +1,4 @@
-# Simple Calculator README
-
-![Calculator](calculator_image.jpg)
+# Simple Calculator
 
 ## Description
 
