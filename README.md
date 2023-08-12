@@ -4,6 +4,12 @@
 
 Welcome to the Simple Calculator project! This is a basic calculator application designed to perform arithmetic operations such as addition, subtraction, multiplication, and division. The application provides an easy-to-use interface for performing calculations quickly and efficiently.
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 ## Features
 
 - Addition: Add two or more numbers together.
