@@ -25,4 +25,3 @@ This Simple Calculator was created by Mihlali Kota. You can connect with me on:
 - GitHub: [github.com/MihlaliCode](https://github.com/MihlaliCode)
 - LinkedIn: [linkedin.com/in/mihlalikota](https://www.linkedin.com/in/mihlali-kota-30115b234/)
 
-Thank you for using the Simple Calculator! If you have any questions or suggestions, feel free to contact me. Happy calculating! 🧮🔢
